@@ -1,0 +1,8 @@
+{
+  "track_name": "song",
+  "artist": "artist",
+  "lyrics": "text",
+  "album": null,
+  "genres": null,
+  "numeric_cols": []
+}

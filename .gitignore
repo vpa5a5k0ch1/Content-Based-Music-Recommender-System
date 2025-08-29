@@ -1,0 +1,8 @@
+archieve/
+archieve.zip
+test/
+train/
+valid/
+
+*.npz
+*.pkl
